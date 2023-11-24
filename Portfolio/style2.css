@@ -1,0 +1,67 @@
+.bv {
+background-color: #292929 ;
+color: white
+}
+
+.ddf {
+wight: 100%;
+box-shadow: 0 5px rgba(0, 0, 0, 0.2);
+border-collapse: collapse;
+
+}
+
+
+.sd {
+border: 1px solid black;
+ text-aling: center;
+
+}
+.h{
+text-aling: center;
+
+ background-color: #808080;
+
+
+}
+
+
+.d {
+ background-color: #808080;
+ align = center;
+}
+
+.q {
+list-style: none;
+margin: 0;
+padding: 15px
+}
+
+.a {
+font-size: 40px;
+padding: 2px;
+color: #COCOCO;
+text-decoration: none;
+
+
+}
+
+.a:hover:{
+color: #FF4500;
+
+
+
+}
+
+.c {
+display: inline ;
+}
+
+footer {
+background-color: #333;
+color: #FFF
+}
+
+.x {
+font-size: 1,5rem;
+
+}
